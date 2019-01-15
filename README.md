@@ -1,5 +1,5 @@
 # BlurImage
-Hide images from Quora (To avoid explicit content)
+Chrome extension to hide images from Quora (To avoid explicit content)
 
 To use this extension locally 
 
